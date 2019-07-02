@@ -1,0 +1,11 @@
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/obj/Debug/GraduationTracker.Unit.Tests.csprojAssemblyReference.cache
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/obj/Debug/GraduationTracker.Unit.Tests.csproj.CoreCompileInputs.cache
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/bin/Debug/GraduationTracker.Unit.Tests.dll
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/bin/Debug/GraduationTracker.Unit.Tests.pdb
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/bin/Debug/GraduationTracker.dll
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/bin/Debug/nunit.framework.dll
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/bin/Debug/GraduationTracker.pdb
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/bin/Debug/nunit.framework.xml
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/obj/Debug/GraduationTracker.Unit.Tests.csproj.CopyComplete
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/obj/Debug/GraduationTracker.Unit.Tests.dll
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker.Unit.Tests/obj/Debug/GraduationTracker.Unit.Tests.pdb

@@ -1,0 +1,6 @@
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker/bin/Debug/GraduationTracker.dll
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker/bin/Debug/GraduationTracker.pdb
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker/obj/Debug/GraduationTracker.csprojAssemblyReference.cache
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker/obj/Debug/GraduationTracker.csproj.CoreCompileInputs.cache
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker/obj/Debug/GraduationTracker.dll
+/Users/rinachaudhary/Documents/Xello/BackEnd/Interview.Test.BE/GraduationTracker/GraduationTracker/obj/Debug/GraduationTracker.pdb
